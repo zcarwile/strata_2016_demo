@@ -27,14 +27,12 @@ requirements:
     - setuptools
     - numpy
     - nltk
-    - jellyfish
     - pycountry
 
   run:
     - python
     - numpy
     - nltk
-    - jellyfish
     - pycountry
 
 test:
